@@ -1,4 +1,4 @@
-Ciau! Sono Edward Baritello 
+Ciau! Sono Edward, il tuo consulente
 
 
 
