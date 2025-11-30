@@ -1,4 +1,4 @@
-    "From spreadsheets to scripts - documenting my journey"
+     "From spreadsheets to scripts - documenting my journey"
 👋 Hi, I'm Edward
 Corporate Finance Analyst | Italy 🇮🇹
 
