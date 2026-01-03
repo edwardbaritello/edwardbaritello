@@ -1,16 +1,3 @@
-# Edward 
-Corporate Analyst learning to code.
-## What I Do
-Financial analysis, business intelligence, performance management.
-## What I'm Building
-Data skills to automate, scale, and improve my craft.
-
-
-**Learning in public.** Feedback welcome.
-
----
-
-📍 Turin, IT | 💼 [LinkedIn](https://www.linkedin.com/in/edwardbaritello) 
 
 <p align="center">
   <b>EDWARD BARITELLO</b><br/>
@@ -36,12 +23,13 @@ Data skills to automate, scale, and improve my craft.
 
 ## Intro
 <a name="intro"></a>
-Breve testo di presentazione...
-
-## Projects
-<a name="projects"></a>
-Elenco progetti...
+Corporate Analyst learning to code.
+## What I Do
+Financial analysis, business intelligence, performance management.
+## What I'm Building
+Data skills to automate, scale, and improve my craft.
+**Learning in public.** Feedback welcome.
 
 ## Contacts
 <a name="contacts"></a>
-Puoi trovarmi su [LinkedIn](https://www.linkedin.com/in/edwardbaritello).
+📍 Turin, IT | 💼 [LinkedIn](https://www.linkedin.com/in/edwardbaritello)
