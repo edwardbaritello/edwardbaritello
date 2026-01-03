@@ -5,10 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="#intro">INTRO</a> ·
-  <a href="#projects">PROJECTS</a> ·
   <a href="https://www.linkedin.com/in/edwardbaritello" target="_blank">LINKEDIN</a> ·
-  <a href="#contacts">CONTACT</a>
 </p>
 
 <p align="center">
