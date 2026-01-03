@@ -5,19 +5,12 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/edwardbaritello" target="_blank">LINKEDIN</a> ·
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/status-active-brightgreen.svg" alt="Status: active"/>
-  <img src="https://img.shields.io/github/stars/tuo-utente/tuo-repo?style=flat" alt="GitHub stars"/>
   <a href="https://www.linkedin.com/in/edwardbaritello">
-    <img src="https://img.shields.io/badge/follow-LinkedIn-blue?logo=linkedin" alt="Follow on LinkedIn"/>
+    <img src="https://img.shields.io/badge/follow-LinkedIn-blue?logo=linkedin" alt="Let’s connect on LinkedIn"/>
   </a>
 </p>
-
 ---
-
 ## Intro
 <a name="intro"></a>
 Corporate Analyst learning to code.
