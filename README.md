@@ -10,5 +10,5 @@ Data skills to automate, scale, and improve my craft.
 
 ---
 
-📍 Turin, IT | 💼 [LinkedIn](www.linkedin.com/in/edwardbaritello) | 📧 [Email](edward.baritello@gmail.com)
+📍 Turin, IT | 💼 [LinkedIn](https://www.linkedin.com/in/edwardbaritello) | 📧 [Email](mailto:edward.baritello@gmail.com)
 
