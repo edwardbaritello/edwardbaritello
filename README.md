@@ -1,10 +1,14 @@
-     "From spreadsheets to scripts - documenting my journey"
-👋 Hi, I'm Edward
-Corporate Finance Analyst | Italy 🇮🇹
+# Edward 
+Corporate Analyst learning to code.
+## What I Do
+Financial analysis, business intelligence, performance management.
+## What I'm Building
+Data skills to automate, scale, and improve my craft.
 
-After years of Excel-based financial modeling, I'm starting my coding journey to automate workflows and build better analytical tools.
 
-🎯 Goal
-Transform repetitive financial tasks into efficient, reusable code. Building open-source tools that bridge traditional finance with modern programming.
+**Learning in public.** Feedback welcome.
 
+---
+
+📍 Turin, IT | 💼 [LinkedIn](www.linkedin.com/in/edwardbaritello) | 📧 [Email](edward.baritello@gmail.com)
 
